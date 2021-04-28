@@ -1,10 +1,10 @@
 #Reserved Keywords
-abstract|after|alias|apply
-auto|case|catch|copyof
-default|define|final|immutable
-implements|in|inline|let
-macro|match|mutable|null
-of|override|partial|promise
-reference|relocatable|sealed|sizeof
-static|supports|switch|try
-typedef|typeof|unchecked
+abstract    |   after  |   alias    | apply
+auto    |   case   |   catch |    copyof
+default |   define  |  final    |    immutable
+implements  |   in   | inline    |  let
+macro   |   match |    mutable |   null
+of  |   override | partial |    promise
+reference   |   relocatable   |    sealed    | sizeof
+static  |   supports | switch  |    try
+typedef |   typeof  |  unchecked
