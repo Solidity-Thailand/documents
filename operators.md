@@ -2,8 +2,8 @@
 Description | Operator
 --- | ---
 Postfix increment and decrement |	++, --
-New expression	new | <typename>
-Array subscripting |	<array>[<index>]
+New expression	new |   <typename>
+Array subscripting | <array>[<index>]
 Member access |	<object>.<member>
 Function-like call |	<func>(<args...>)
 Parentheses |	(<statement>)
